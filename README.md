@@ -20,6 +20,8 @@ _Steamworks.NET_ fully supports Windows (32 and 64 bit), OSX, and Linux. Current
 
 You can find the installation instructions [here](https://steamworks.github.io/installation/).
 
+https://github.com/lltcggie/Steamworks.NET.git?path=/com.rlabrecque.steamworks.net
+
 ## Samples
 
 Check out these sample projects to get started:

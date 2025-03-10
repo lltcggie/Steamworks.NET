@@ -11,7 +11,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rlabrecque/Steamworks.NET.git?path=/com.rlabrecque.steamworks.net"
+    "url": "git+https://github.com/lltcggie/Steamworks.NET.git?path=/com.rlabrecque.steamworks.net"
   },
   "keywords": [
     "steam",
